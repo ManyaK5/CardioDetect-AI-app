@@ -1,0 +1,9 @@
+Model,Train Acc (%),Test Acc (%),Test Precision (%),Test Recall (%),Test F1-score (%),CV Acc Mean (%),CV Acc Std (%),CV Prec Mean (%),CV Prec Std (%),CV Rec Mean (%),CV Rec Std (%),CV F1 Mean (%),CV F1 Std (%),Fit Status
+Logistic Regression,72.74,72.61,75.3,66.36,70.55,72.76,0.23,75.36,0.58,66.82,0.94,70.83,0.37,Good fit
+Decision Tree,73.1,73.3,75.78,67.6,71.46,72.88,0.12,75.98,1.38,66.23,1.92,70.73,0.56,Good fit
+Random Forest (Bagging),75.27,73.37,76.12,67.25,71.41,73.26,0.19,75.89,0.46,67.4,1.01,71.38,0.41,Good fit
+AdaBoost (Boosting),72.75,72.56,76.44,64.32,69.86,72.51,0.21,76.48,0.57,64.21,0.96,69.8,0.41,Good fit
+Gradient Boosting (Boosting),73.65,73.81,75.89,68.95,72.25,73.33,0.17,75.15,0.54,68.92,0.88,71.89,0.29,Good fit
+Tuned Gradient Boosting,73.78,73.69,75.64,69.03,72.18,73.36,0.18,75.14,0.63,69.05,0.83,71.96,0.23,Good fit
+Tuned Gradient Boosting,73.78,73.69,75.64,69.03,72.18,73.36,0.18,75.14,0.63,69.05,0.83,71.96,0.23,Good fit
+Tuned Gradient Boosting,73.78,73.69,75.64,69.03,72.18,73.36,0.18,75.14,0.63,69.05,0.83,71.96,0.23,Good fit
